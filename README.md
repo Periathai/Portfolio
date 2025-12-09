@@ -8,8 +8,7 @@ Thrilled to share that I’ve completed a full-stack personal portfolio website 
 🚀A few highlights of this build:An interactive resume/portfolio section that not only lists projects but explains the problem, approach, and tech stack for each one.A contact form with email notifications, so opportunities can reach me directly through the site.SEO-focused structure with meaningful headings, meta tags, and performance-conscious design to help the portfolio rank better over time.🧭
 
 🌱This task taught me how to think about my work like a product: planning the experience, connecting frontend–backend–database, and making it discoverable, not just functional.�� I’ve also recorded a short demo video walk-through of the website to showcase the user journey and key features in action.If you have a moment, I’d love your feedback on the portfolio—design, structure, or content—so I can keep improving it as I grow.
-
-GitHub:
+Linkedin :https://www.linkedin.com/posts/periathai-shanmugavelayutham-9881b5328_webdevelopment-portfoliowebsite-studentdeveloper-activity-7404215393038622721-TMTY?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAFKcbjgBth8D2R61UUpLW-HbzOhZIs-PZkA&utm_campaign=copy_link
 
 #WebDevelopment #PortfolioWebsite #StudentDeveloper #HTML #CSS #JavaScript #NodeJS #MySQL #MongoDB #SEO #LearningByBuilding
 #futureinterns
